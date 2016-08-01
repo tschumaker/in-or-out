@@ -1,6 +1,6 @@
-name: In or Out
+name: AcmeTroy's In or Out App
 description: A simple Slack app for keeping track of who is in or who is out (e.g. coming to the office, going to lunch, etc.)
-email: hello@beepboophq.com
+email: troy.schumaker@gmail.com
 avatar: .beepboop/inorout-icon.png
 background: .beepboop/inorout-bg.png
 screenshots:
